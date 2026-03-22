@@ -1,0 +1,21 @@
+{
+  "name": "21-building-complete-backend-myown",
+  "version": "1.0.0",
+  "description": "a project for beginners project managment application",
+  "keywords": [
+    "udemy",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "license": "ISC",
+  "author": "Saksham",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
